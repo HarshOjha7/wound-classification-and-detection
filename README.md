@@ -27,3 +27,8 @@ This project uses machine learning to classify and detect wound images — speci
 1. Clone this repository:
    bash
    git clone https://github.com/HarshOjha7/wound-classification-and-detection.git
+
+   Contributor: Harsh Ojha
+Trigger contributor recognition
+✅ Commit directly to the main branch
+
